@@ -1,0 +1,26 @@
+{
+  "ETUDIANT1": {
+          "N": "1",
+          "NOM": "AHMED",
+          "CNE": "M1234567",
+          "ECOLE": "EST"
+  },
+  "ETUDIANT2": {
+          "N": "2",
+          "NOM": "OMAR",
+          "CNE": "M1333567",
+          "ECOLE": "ENSA"
+  },
+  "ETUDIANT3": {
+          "N": "3",
+          "NOM": "KARIM",
+          "CNE": "M100000",
+          "ECOLE": "FS"
+  },
+  "ETUDIANT4": {
+          "N": "4",
+          "NOM": "ALI",
+          "CNE": "M1234447",
+          "ECOLE": "FST"
+  }
+}
